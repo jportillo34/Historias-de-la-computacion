@@ -126,13 +126,11 @@ como el doctor Barcenas hacían sus cálculos usando la regla de cálculo y juga
 los logaritmos, números exponenciales y el álgebra básica. Además repasaremos un
 tema muy interesante del cual la regla de cálculo ha venido a formar parte: la
 Nomografía. Por lo pronto, recomiendo revisar el siguiente artículo que es una
-introducción a este interesante tema (presionar sobre el título):MULTIPLICACIÓN DE
-CANTIDADES DECIMALES: UNA CUESTIÓN DE ESCALA
+introducción a este interesante tema: [(presionar sobre el título):MULTIPLICACIÓN DE
+CANTIDADES DECIMALES: UNA CUESTIÓN DE ESCALA](https://jportillolugo.blogspot.com/2010/08/el-problema-de-multiplicar-cantidades.html)
 
 
 # Un dia de paseo por la historia...
-
-# José Portillo Lugo
 
 Este fue un día libre por haberme calado una semana completa haciendo cosas sin
 importancia pero que requirieron mucha de mi energía.

@@ -29,7 +29,7 @@ qué servían aquellas cosas. En la casa de mi familia había varias pertenecien
 otras de mi padre y mi hermana Isabel quien a mediados de los años 1970 comenzaba su
 carrera de arquitectura y necesitaba de la regla para las materias de cálculo matemático
 y cálculo estructural (luego se compró una HP-25 con notación RPN).
-![imagen](https://github.com/jportillo34/Historias-de-la-computacion/assets/37955235/dc8f7440-e124-46ab-9af4-8fd8be1f7795)
+
 
 # Acualización Marzo 2011:
 
